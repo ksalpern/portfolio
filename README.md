@@ -1,4 +1,6 @@
-# Resume
+# Portfolio
+
+Click[ here](https://ornate-sunflower-f83f9f.netlify.app/#about) to see portfolio😃
 
 Hey my friends! Here is repo with my personal portfolio. Follow this steps to start project on your local machine:
 
