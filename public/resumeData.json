@@ -1,0 +1,125 @@
+{
+  "main": {
+    "name": "Kseniia P",
+    "occupation": "Frontend developer",
+    "description": "I eat, sleep, take photos and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Kseniia! I've been coding for a year now. As a Frontend developer I've worked on freelance to help build & scale my customer's companies. Along the journey I realised my passion existed in helping others, I grow faster sharing knowledge with a team. Hope for future cooperation!",
+    "contactmessage": "Get in touch with me to get value from cooperation!",
+    "email": "ksenia.pidopryhora@gmail.com",
+    "phone": "+380 97 556 2272",
+    "address": {
+      "street": "123 Dev Lane",
+      "city": "Chernivtsi",
+      "state": "Ukraine",
+      "zip": "58 000"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "https://ksalpern.github.io/cv/1resume/index.html",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCRa049ePVPgYCCPacXS7crQ",
+        "className": "fa fa-youtube"
+      },
+
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kseniia-p-44a579236/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ksalpern/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ksalpern",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Sumy national agrarian university - Ukraine",
+        "degree": "Bachelor's Degree, Biotechnology and bioengineering",
+        "graduated": "May 2024"
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelance",
+        "title": "Freelancer",
+        "years": "Fabruary 2022 - Present",
+        "description": "Creating frontend for international customers. On the way to become a senior developer! Building career as fast as possible."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "Redux",
+        "level": "65%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "Web Development",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "NFT ME",
+        "category": "",
+        "image": "nft-me.png",
+        "url": "https://ksalpern.github.io/NFT-me/index.html"
+      },
+      {
+        "title": "E-commerce",
+        "category": "",
+        "image": "e-commerce.png",
+        "url": "https://github.com/ksalpern/e-commerce-test-task"
+      },
+      {
+        "title": "Whirl",
+        "category": "",
+        "image": "whirl.png",
+        "url": "https://ksalpern.github.io/Whirl/index.html"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Kseniia is absolutely excellent, her depth of knowledge & his support while work really meant a lot to us... I would definitely recommend",
+        "user": "Artem V."
+      },
+      {
+        "text": "Learning with Kseniia has been AWESOME, she makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Anya K."
+      }
+    ]
+  }
+}
