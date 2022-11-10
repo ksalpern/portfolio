@@ -91,6 +91,24 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Netflix clone app",
+        "category": "",
+        "image": "Netflix.png",
+        "url": "https://netflix-clone-app-c2822.web.app/"
+      },
+      {
+        "title": "Relvise",
+        "category": "",
+        "image": "relvise.png",
+        "url": "https://ksalpern.github.io/Relvise/index.html"
+      },
+      {
+        "title": "E-commerce",
+        "category": "",
+        "image": "Auto.png",
+        "url": "https://azalex020204.github.io/AutoTK/"
+      },
+      {
         "title": "NFT ME",
         "category": "",
         "image": "nft-me.png",
