@@ -4,15 +4,14 @@
     "occupation": "Frontend developer",
     "description": "I eat, sleep, take photos and breathe React",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Kseniia! I've been coding for a year now. As a Frontend developer I've worked on freelance to help build & scale my customer's companies. Along the journey I realised my passion existed in helping others, I grow faster sharing knowledge with a team. Hope for future cooperation!",
-    "contactmessage": "Get in touch with me to get value from cooperation!",
+    "bio": "Hey there! For the past year, I have worked as a freelance frontend developer specializing in HTML, SCSS, JavaScript, React.js, Bootstrap, Tailwindcss, Redux, Graphql, Rest API. I am very passionate about learning and improving what I like to do, so I like being competitive and always pushing myself to do things better.But I also like to chat and laugh with my coworkers, building solid relationships. I will do my best to achieve the final result!",
     "email": "ksenia.pidopryhora@gmail.com",
     "phone": "+380 97 556 2272",
     "address": {
       "street": "123 Dev Lane",
-      "city": "Chernivtsi",
+      "city": "Chernihiv",
       "state": "Ukraine",
-      "zip": "58 000"
+      "zip": "14 000"
     },
     "website": "https://www.papareact.com/course",
     "resumedownload": "https://ksalpern.github.io/cv/1resume/index.html",
@@ -91,22 +90,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Netflix clone app",
-        "category": "",
-        "image": "Netflix.png",
-        "url": "https://netflix-clone-app-c2822.web.app/"
-      },
-      {
         "title": "Medium clone app",
         "category": "",
         "image": "medium.png",
         "url": "https://sanity-medium-clone-app-ksalpern.vercel.app/"
-      },
-      {
-        "title": "Relvise",
-        "category": "",
-        "image": "relvise.png",
-        "url": "https://ksalpern.github.io/Relvise/index.html"
       },
       {
         "title": "E-commerce",
@@ -121,34 +108,34 @@
         "url": "https://golden-maamoul-56ee7d.netlify.app/"
       },
       {
-        "title": "Airbnb clone app",
-        "category": "",
-        "image": "airbnb.png",
-        "url": "https://airbnb-clone-app.vercel.app/"
-      },
-      {
-        "title": "Spotify clone app",
-        "category": "",
-        "image": "spotify.png",
-        "url": "https://melodious-strudel-4cdc9c.netlify.app/"
-      },
-      {
         "title": "NFT ME",
         "category": "",
         "image": "nft-me.png",
         "url": "https://ksalpern.github.io/NFT-me/index.html"
       },
       {
-        "title": "E-commerce",
+        "title": "Relvise",
         "category": "",
-        "image": "e-commerce.png",
-        "url": "https://github.com/ksalpern/e-commerce-test-task"
+        "image": "relvise.png",
+        "url": "https://ksalpern.github.io/Relvise/index.html"
       },
       {
         "title": "Whirl",
         "category": "",
         "image": "whirl.png",
         "url": "https://ksalpern.github.io/Whirl/index.html"
+      },
+      {
+        "title": "Netflix clone app",
+        "category": "",
+        "image": "Netflix.png",
+        "url": "https://netflix-clone-app-c2822.web.app/"
+      },
+      {
+        "title": "Airbnb clone app",
+        "category": "",
+        "image": "airbnb.png",
+        "url": "https://airbnb-clone-app.vercel.app/"
       }
     ]
   },
