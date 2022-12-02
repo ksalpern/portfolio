@@ -85,10 +85,26 @@
         "name": "Web Development",
         "level": "80%"
       }
+      ,
+      {
+        "name": "Next.js",
+        "level": "50%"
+      }
+      ,
+      {
+        "name": "TypeScript",
+        "level": "50%"
+      }
     ]
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Digital Cameras",
+        "category": "",
+        "image": "DigitalCameras3.png",
+        "url": "https://ecommerce-stripe-ksalpern.vercel.app/"
+      },
       {
         "title": "Medium clone app",
         "category": "",
@@ -100,12 +116,6 @@
         "category": "",
         "image": "Auto.png",
         "url": "https://azalex020204.github.io/AutoTK/"
-      },
-      {
-        "title": "Google clone app",
-        "category": "",
-        "image": "google.png",
-        "url": "https://golden-maamoul-56ee7d.netlify.app/"
       },
       {
         "title": "NFT ME",
@@ -126,16 +136,16 @@
         "url": "https://ksalpern.github.io/Whirl/index.html"
       },
       {
+        "title": "Google clone app",
+        "category": "",
+        "image": "google.png",
+        "url": "https://golden-maamoul-56ee7d.netlify.app/"
+      },
+      {
         "title": "Netflix clone app",
         "category": "",
         "image": "Netflix.png",
         "url": "https://netflix-clone-app-c2822.web.app/"
-      },
-      {
-        "title": "Airbnb clone app",
-        "category": "",
-        "image": "airbnb.png",
-        "url": "https://airbnb-clone-app.vercel.app/"
       }
     ]
   },
