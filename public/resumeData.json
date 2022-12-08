@@ -50,10 +50,16 @@
     ],
     "work": [
       {
-        "company": "Freelance",
-        "title": "Freelancer",
-        "years": "Fabruary 2022 - Present",
+        "company": "Upwork",
+        "title": "Frontend developer",
+        "years": "September 2021 - Present",
         "description": "Creating frontend for international customers. On the way to become a senior developer! Building career as fast as possible."
+      },
+      {
+        "company": "USA company",
+        "title": "Sales Manager & Customer Service Specialist",
+        "years": "January 2021 - August 2021",
+        "description": "Helping customers with booking services via phone calls. Answering all client's questions. Prepearing reports on the work done."
       }
     ],
     "skills": [
@@ -84,13 +90,11 @@
       {
         "name": "Web Development",
         "level": "80%"
-      }
-      ,
+      },
       {
         "name": "Next.js",
         "level": "50%"
-      }
-      ,
+      },
       {
         "name": "TypeScript",
         "level": "50%"
