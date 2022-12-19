@@ -116,16 +116,71 @@
         "url": "https://sanity-medium-clone-app-ksalpern.vercel.app/"
       },
       {
-        "title": "E-commerce",
+        "title": "Google clone app",
         "category": "",
-        "image": "Auto.png",
-        "url": "https://azalex020204.github.io/AutoTK/"
+        "image": "google.png",
+        "url": "https://golden-maamoul-56ee7d.netlify.app/"
       },
       {
         "title": "NFT ME",
         "category": "",
         "image": "nft-me.png",
         "url": "https://ksalpern.github.io/NFT-me/index.html"
+      },
+      {
+        "title": "Bulbs shop",
+        "category": "",
+        "image": "bulbs.png",
+        "url": "https://azalex020204.github.io/Bulbs/"
+      },
+      {
+        "title": "Rootz - nature protection",
+        "category": "",
+        "image": "rootz.png",
+        "url": "https://halo-lab-test-task.netlify.app/"
+      },
+      {
+        "title": "Wheels shop",
+        "category": "",
+        "image": "wheels.jpg",
+        "url": "https://fordmaxmotordreams.com/wheels/catalog/"
+      },
+      {
+        "title": "Galaxy app",
+        "category": "",
+        "image": "galaxy.png",
+        "url": "https://relaxed-marzipan-8cee88.netlify.app/"
+      },
+      {
+        "title": "Digital portfolio",
+        "category": "",
+        "image": "glb.png",
+        "url": "https://azalex020204.github.io/Notitanic/index.html"
+      },
+
+      {
+        "title": "Apenture studios",
+        "category": "",
+        "image": "apenture.png",
+        "url": "https://azalex020204.github.io/Aperture/index.html"
+      },
+      {
+        "title": "Bright lights",
+        "category": "",
+        "image": "bright.png",
+        "url": "https://azalex020204.github.io/Bright_Lights/"
+      },
+      {
+        "title": "Creative Agency",
+        "category": "",
+        "image": "stone.png",
+        "url": "https://azalex020204.github.io/Stone/"
+      },
+      {
+        "title": "Vantage store",
+        "category": "",
+        "image": "vantage.png",
+        "url": "https://azalex020204.github.io/dising/index.html"
       },
       {
         "title": "Relvise",
@@ -138,18 +193,6 @@
         "category": "",
         "image": "whirl.png",
         "url": "https://ksalpern.github.io/Whirl/index.html"
-      },
-      {
-        "title": "Google clone app",
-        "category": "",
-        "image": "google.png",
-        "url": "https://golden-maamoul-56ee7d.netlify.app/"
-      },
-      {
-        "title": "Netflix clone app",
-        "category": "",
-        "image": "Netflix.png",
-        "url": "https://netflix-clone-app-c2822.web.app/"
       }
     ]
   },
