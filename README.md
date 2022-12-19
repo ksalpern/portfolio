@@ -1,6 +1,6 @@
 # Portfolio
 
-Click [here](https://heroic-brioche-9bab2d.netlify.app/) to see portfolio😃
+Click [here](https://kseniia-pidopryhora.netlify.app/) to see portfolio😃
 
 Hey my friends! Here is repo with my personal portfolio. Follow this steps to start project on your local machine:
 
