@@ -193,7 +193,14 @@
         "category": "",
         "image": "whirl.png",
         "url": "https://ksalpern.github.io/Whirl/index.html"
+      },
+      {
+        "title": "Admin dashboard",
+        "category": "",
+        "image": "admin.png",
+        "url": "https://admin-dashboard-react-data-app.netlify.app/"
       }
+      
     ]
   },
   "testimonials": {
