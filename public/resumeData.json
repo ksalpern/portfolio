@@ -4,7 +4,7 @@
     "occupation": "Frontend developer",
     "description": "I eat, sleep, take photos and breathe React",
     "image": "profilepic.jpg",
-    "bio": "Hey there! For the past year, I have worked as a freelance frontend developer specializing in HTML, SCSS, JavaScript, React.js, Bootstrap, Tailwindcss, Redux, Graphql, Rest API. I am very passionate about learning and improving what I like to do, so I like being competitive and always pushing myself to do things better.But I also like to chat and laugh with my coworkers, building solid relationships. I will do my best to achieve the final result!",
+    "bio": "Hey there! For the past year and half, I have worked as a freelance frontend developer specializing in HTML, SCSS, JavaScript, React.js, Bootstrap, Tailwindcss, Redux, Graphql, Rest API. I am very passionate about learning and improving what I like to do, so I like being competitive and always pushing myself to do things better.But I also like to chat and laugh with my coworkers, building solid relationships. I will do my best to achieve the final result!",
     "email": "ksenia.pidopryhora@gmail.com",
     "phone": "+380 97 556 2272",
     "address": {
@@ -14,7 +14,7 @@
       "zip": "14 000"
     },
     "website": "https://www.papareact.com/course",
-    "resumedownload": "https://ksalpern.github.io/cv/1resume/index.html",
+    "resumedownload": "https://drive.google.com/file/d/15rHF1_7arLYGMckPx8mYk_WOHaueXy9U/view?usp=sharing",
     "social": [
       {
         "name": "youtube",
@@ -24,7 +24,7 @@
 
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/kseniia-p-44a579236/",
+        "url": "https://www.linkedin.com/in/kseniia-pidopryhora-44a579236/",
         "className": "fa fa-linkedin"
       },
       {
