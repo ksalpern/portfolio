@@ -53,13 +53,19 @@
         "company": "Upwork",
         "title": "Frontend developer",
         "years": "September 2021 - Present",
-        "description": "Creating frontend for international customers. On the way to become a senior developer! Building career as fast as possible."
+        "description": "Working as React developer on different projects. E-commerce, portals, marketplaces, corporate websites"
+      },
+      {
+        "company": "Volunteering",
+        "title": "Volunteer ",
+        "years": "January 2019 - Present",
+        "description": "I take photos at volunteering projects, do photo processing, conduct phone calls with wards in order to provide psychological support"
       },
       {
         "company": "USA company",
         "title": "Sales Manager & Customer Service Specialist",
         "years": "January 2021 - August 2021",
-        "description": "Helping customers with booking services via phone calls. Answering all client's questions. Prepearing reports on the work done."
+        "description": "Helping customers with booking services via phone calls, answering all client's questions, preparing reports on the work done."
       }
     ],
     "skills": [
@@ -80,7 +86,7 @@
         "level": "65%"
       },
       {
-        "name": "Git",
+        "name": "Git & GitHub",
         "level": "80%"
       },
       {
@@ -97,7 +103,7 @@
       },
       {
         "name": "TypeScript",
-        "level": "50%"
+        "level": "60%"
       }
     ]
   },
