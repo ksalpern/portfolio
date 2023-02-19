@@ -50,9 +50,15 @@
     ],
     "work": [
       {
-        "company": "Upwork",
+        "company": "SNAPHASH",
         "title": "Frontend developer",
-        "years": "September 2021 - Present",
+        "years": "February 2022 - Present",
+        "description": "Work to achieve a balance between functional and aesthetic designs and to solve complex challenges with the utilization of modern web application development processes and standard methodologies"
+      },
+      {
+        "company": "ORDIS INC",
+        "title": "Frontend developer",
+        "years": "September 2021 - February 2022",
         "description": "Working as React developer on different projects. E-commerce, portals, marketplaces, corporate websites"
       },
       {
