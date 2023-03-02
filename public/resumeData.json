@@ -4,7 +4,7 @@
     "occupation": "Frontend developer",
     "description": "I eat, sleep, take photos and breathe React",
     "image": "profilepic.jpg",
-    "bio": "Hey there! For the past year and half, I have worked as a freelance frontend developer specializing in HTML, SCSS, JavaScript, React.js, Bootstrap, Tailwindcss, Redux, Graphql, Rest API. I am very passionate about learning and improving what I like to do, so I like being competitive and always pushing myself to do things better.But I also like to chat and laugh with my coworkers, building solid relationships. I will do my best to achieve the final result!",
+    "bio": "React frontend developer with a sales background and 1.5 years of hands-on experience with several IT companies in helping create and maintain a better code base for reusability. Experience driving projects forward in the team, facilitating projects from concept to launch. Passionate about learning and development and want to apply skills on a larger development team. I will do my best to achieve the final result!",
     "email": "ksenia.pidopryhora@gmail.com",
     "phone": "+380 97 556 2272",
     "address": {
@@ -122,10 +122,10 @@
         "url": "https://ecommerce-stripe-ksalpern.vercel.app/"
       },
       {
-        "title": "Medium clone app",
+        "title": "Next.js & Sanity CMS blog",
         "category": "",
-        "image": "medium.png",
-        "url": "https://sanity-medium-clone-app-ksalpern.vercel.app/"
+        "image": "next-blog.png",
+        "url": "https://blog-nextjs-sanity-v3-ksalpern.vercel.app/"
       },
       {
         "title": "Google clone app",
@@ -162,31 +162,6 @@
         "category": "",
         "image": "galaxy.png",
         "url": "https://relaxed-marzipan-8cee88.netlify.app/"
-      },
-      {
-        "title": "Digital portfolio",
-        "category": "",
-        "image": "glb.png",
-        "url": "https://azalex020204.github.io/Notitanic/index.html"
-      },
-
-      {
-        "title": "Apenture studios",
-        "category": "",
-        "image": "apenture.png",
-        "url": "https://azalex020204.github.io/Aperture/index.html"
-      },
-      {
-        "title": "Bright lights",
-        "category": "",
-        "image": "bright.png",
-        "url": "https://azalex020204.github.io/Bright_Lights/"
-      },
-      {
-        "title": "Creative Agency",
-        "category": "",
-        "image": "stone.png",
-        "url": "https://azalex020204.github.io/Stone/"
       },
       {
         "title": "AutoTK",
