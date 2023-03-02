@@ -29,7 +29,7 @@
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ksalpern/",
+        "url": "https://instagram.com/ksalpern?igshid=ZDdkNTZiNTM=",
         "className": "fa fa-instagram"
       },
       {
@@ -50,28 +50,28 @@
     ],
     "work": [
       {
-        "company": "SNAPHASH",
+        "company": "UNIQ",
         "title": "Frontend developer",
         "years": "February 2022 - Present",
         "description": "Work to achieve a balance between functional and aesthetic designs and to solve complex challenges with the utilization of modern web application development processes and standard methodologies"
       },
       {
-        "company": "ORDIS INC",
+        "company": "UPWORK",
         "title": "Frontend developer",
         "years": "September 2021 - February 2022",
         "description": "Working as React developer on different projects. E-commerce, portals, marketplaces, corporate websites"
       },
       {
+        "company": "USA company",
+        "title": "Sales Manager & Customer Service Specialist",
+        "years": "May 2021 - February 2022",
+        "description": "Helping customers with booking services via phone calls, answering all client's questions, preparing reports on the work done."
+      },
+      {
         "company": "Volunteering",
         "title": "Volunteer ",
         "years": "January 2019 - Present",
-        "description": "I take photos at volunteering projects, do photo processing, conduct phone calls with wards in order to provide psychological support"
-      },
-      {
-        "company": "USA company",
-        "title": "Sales Manager & Customer Service Specialist",
-        "years": "January 2021 - August 2021",
-        "description": "Helping customers with booking services via phone calls, answering all client's questions, preparing reports on the work done."
+        "description": "Photographer for several events & Participated in the 'My Telephone Friend' initiative, providing psychological support to elderly individuals via phone calls."
       }
     ],
     "skills": [
@@ -105,7 +105,7 @@
       },
       {
         "name": "Next.js",
-        "level": "50%"
+        "level": "60%"
       },
       {
         "name": "TypeScript",
@@ -187,7 +187,6 @@
         "image": "admin.png",
         "url": "https://admin-dashboard-react-data-app.netlify.app/"
       }
-      
     ]
   },
   "testimonials": {
