@@ -116,6 +116,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "AI image generator",
+        "category": "",
+        "image": "ai-image-generator.png",
+        "url": "https://ai-image-generator-ksalpern.vercel.app/"
+      },
+      {
         "title": "Digital Cameras",
         "category": "",
         "image": "DigitalCameras3.png",
@@ -126,12 +132,6 @@
         "category": "",
         "image": "next-blog.png",
         "url": "https://blog-nextjs-sanity-v3-ksalpern.vercel.app/"
-      },
-      {
-        "title": "AI image generator",
-        "category": "",
-        "image": "ai-image-generator.png",
-        "url": "https://ai-image-generator-ksalpern.vercel.app/"
       },
       {
         "title": "NFT ME",
@@ -158,7 +158,7 @@
         "url": "https://wheelssize.com/"
       },
       {
-        "title": "Maslov centre",
+        "title": "Maslov center",
         "category": "",
         "image": "maslov.png",
         "url": "http://maslov-center.zzz.com.ua/"
@@ -196,8 +196,8 @@
         "user": "Hammad A."
       },
       {
-        "text": "Learning with Kseniia has been AWESOME, she makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Anya K."
+        "text": "I enjoyed working with Kseniia. She is a very polite, calm, and productive person. She delivered everything that she promised. And went above and beyond our requirements: fixed tons of bugs. And never refused to work on them. I believe she is a rare talent. A+++++",
+        "user": "Rustam R."
       }
     ]
   }
