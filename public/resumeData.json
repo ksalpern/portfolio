@@ -9,12 +9,12 @@
     "phone": "+380 97 556 2272",
     "address": {
       "street": "123 Dev Lane",
-      "city": "Chernihiv",
+      "city": "Kyiv",
       "state": "Ukraine",
-      "zip": "14 000"
+      "zip": "01 001"
     },
     "website": "https://kseniia-pidopryhora.netlify.app/#portfolio",
-    "resumedownload": "https://drive.google.com/file/d/1P0r9uPTW46TnUdT6bJUAUCqKusZvJFP3/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1aiaqec8Q033yMx6I3uhqzmb2McFsnl_C/view?usp=sharing",
     "social": [
       {
         "name": "youtube",
@@ -119,7 +119,7 @@
         "title": "AI image generator",
         "category": "",
         "image": "ai-image-generator.png",
-        "url": "https://ai-image-generator-ksalpern.vercel.app/"
+        "url": "https://github.com/ksalpern/ai-image-generator"
       },
       {
         "title": "Digital Cameras",
@@ -131,7 +131,7 @@
         "title": "Next.js & Sanity CMS blog",
         "category": "",
         "image": "next-blog.png",
-        "url": "https://blog-nextjs-sanity-v3-ksalpern.vercel.app/"
+        "url": "https://github.com/ksalpern/nextjs-blog"
       },
       {
         "title": "NFT ME",
